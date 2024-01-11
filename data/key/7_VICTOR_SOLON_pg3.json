@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "Kaiser",
+            "Group Number": "5126",
+            "Effective Date": "04/12/2022",
+            "Name of Policyholder": "VICTOR SOLON",
+            "Policyholder Date of Birth": "04/13/2007",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "KIS15465",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "RICHARD SOLON",
+            "Health Insurance Claim Number1": "5QZ6-LK3-IO90",
+            "Hospital1": "04/12/2025",
+            "Medical1": "04/12/2025",
+            "Prescription1": "04/12/2025",
+            "Age1": "",
+            "Disability1": "Disability",
+            "End Stage1": "",
+            "Medicare Supplement1": "No",
+            "Name of Subscriber2": "CHLOE SOLON",
+            "Health Insurance Claim Number2": "1SD1-FG1-VC56",
+            "Hospital2": "04/12/2024",
+            "Medical2": "04/12/2024",
+            "Prescription2": "",
+            "Age2": "Age",
+            "Disability2": "",
+            "End Stage2": "",
+            "Medicare Supplement2": "No"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}

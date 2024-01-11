@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "United",
+            "Group Number": "1423",
+            "Effective Date": "11/25/2020",
+            "Name of Policyholder": "CHALSEY LOCKHART",
+            "Policyholder Date of Birth": "05/14/2006",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "UH4528",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "TONY LOCKHART",
+            "Health Insurance Claim Number1": "1QW3-GH4-CV45",
+            "Hospital1": "11/25/2024",
+            "Medical1": "11/25/2024",
+            "Prescription1": "11/25/2024",
+            "Age1": "",
+            "Disability1": "Disability",
+            "End Stage1": "",
+            "Medicare Supplement1": "No",
+            "Name of Subscriber2": "NANCY LOCKHART",
+            "Health Insurance Claim Number2": "6VB1-KU2-IY69",
+            "Hospital2": "11/25/2024",
+            "Medical2": "11/25/2024",
+            "Prescription2": "",
+            "Age2": "",
+            "Disability2": "",
+            "End Stage2": "End Stage",
+            "Medicare Supplement2": "No"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}

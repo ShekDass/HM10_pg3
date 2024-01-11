@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "Aetna",
+            "Group Number": "1568",
+            "Effective Date": "10/01/2020",
+            "Name of Policyholder": "TIMOTHY REESE",
+            "Policyholder Date of Birth": "11/18/1965",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "AT154553",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "JOE REESE",
+            "Health Insurance Claim Number1": "4TY1-HJ3-NB34",
+            "Hospital1": "10/01/2024",
+            "Medical1": "10/01/2024",
+            "Prescription1": "10/01/2024",
+            "Age1": "Age",
+            "Disability1": "",
+            "End Stage1": "",
+            "Medicare Supplement1": "Yes",
+            "Name of Subscriber2": "EMMA REESE",
+            "Health Insurance Claim Number2": "2EG4-TE5-MK51",
+            "Hospital2": "10/01/2024",
+            "Medical2": "10/01/2024",
+            "Prescription2": "",
+            "Age2": "Age",
+            "Disability2": "",
+            "End Stage2": "End Stage",
+            "Medicare Supplement2": "Yes"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}

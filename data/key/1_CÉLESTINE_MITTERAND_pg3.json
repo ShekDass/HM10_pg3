@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "Aetna",
+            "Group Number": "2156",
+            "Effective Date": "02/14/2021",
+            "Name of Policyholder": "C\u00c9LESTINE MITTERAND",
+            "Policyholder Date of Birth": "01/11/1975",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "AT25589",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "RALF MITTERAND",
+            "Health Insurance Claim Number1": "1EG4-TE5-MK72",
+            "Hospital1": "02/14/2025",
+            "Medical1": "02/14/2025",
+            "Prescription1": "02/14/2025",
+            "Age1": "Age",
+            "Disability1": "",
+            "End Stage1": "",
+            "Medicare Supplement1": "Yes",
+            "Name of Subscriber2": "RODY MITTERAND",
+            "Health Insurance Claim Number2": "2QZ6-LK3-IO92",
+            "Hospital2": "02/14/2024",
+            "Medical2": "02/14/2024",
+            "Prescription2": "",
+            "Age2": "Age",
+            "Disability2": "",
+            "End Stage2": "",
+            "Medicare Supplement2": "Yes"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}

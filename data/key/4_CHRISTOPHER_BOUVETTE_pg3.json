@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "Aetna",
+            "Group Number": "1574",
+            "Effective Date": "08/02/2022",
+            "Name of Policyholder": "CHRISTOPHER BOUVETTE",
+            "Policyholder Date of Birth": "03/14/1964",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "AT159357",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "CHARLES LOGAN",
+            "Health Insurance Claim Number1": "5DF1-BV2-BN23",
+            "Hospital1": "08/02/2024",
+            "Medical1": "08/02/2024",
+            "Prescription1": "08/02/2024",
+            "Age1": "Age",
+            "Disability1": "",
+            "End Stage1": "",
+            "Medicare Supplement1": "Yes",
+            "Name of Subscriber2": "EVELYN PEREZ",
+            "Health Insurance Claim Number2": "5DS4-TY3-RC32",
+            "Hospital2": "08/02/2024",
+            "Medical2": "08/02/2024",
+            "Prescription2": "",
+            "Age2": "",
+            "Disability2": "",
+            "End Stage2": "End Stage",
+            "Medicare Supplement2": "Yes"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}

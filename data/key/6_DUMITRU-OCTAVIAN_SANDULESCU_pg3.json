@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "United",
+            "Group Number": "4125",
+            "Effective Date": "03/30/2019",
+            "Name of Policyholder": "DUMITRU-OCTAVIAN SANDULESCU",
+            "Policyholder Date of Birth": "05/19/1951",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "UH1222",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "VICTOR SANDULESCU",
+            "Health Insurance Claim Number1": "1XC2-HJ2-CV56",
+            "Hospital1": "03/30/2026",
+            "Medical1": "03/30/2026",
+            "Prescription1": "03/30/2026",
+            "Age1": "Age",
+            "Disability1": "",
+            "End Stage1": "",
+            "Medicare Supplement1": "No",
+            "Name of Subscriber2": "MARY TAYLOR SANDULESCU",
+            "Health Insurance Claim Number2": "8QW3-GH4-CV23",
+            "Hospital2": "03/30/2024",
+            "Medical2": "03/30/2024",
+            "Prescription2": "",
+            "Age2": "Age",
+            "Disability2": "Disability",
+            "End Stage2": "",
+            "Medicare Supplement2": "No"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}

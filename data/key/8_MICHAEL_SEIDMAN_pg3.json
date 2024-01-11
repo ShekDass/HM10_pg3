@@ -1,0 +1,41 @@
+{
+    "insurancecompany": "HIGHMARK",
+    "formtype": "ENROLLMENT/WAIVER FORM",
+    "page_number": "3",
+    "IV OTHER HEALTH INSURANCE COVERAGE": [
+        {
+            "Name of Insurance Carrier": "Kaiser",
+            "Group Number": "7856",
+            "Effective Date": "06/06/2021",
+            "Name of Policyholder": "MICHAEL SEIDMAN",
+            "Policyholder Date of Birth": "05/25/1950",
+            "Relationship to Policyholder": "Self",
+            "Policy Number": "KIS11498",
+            "Employment Status": "Active",
+            "Medicare": "Coverage",
+            "Name of Subscriber1": "JAMES SEIDMAN",
+            "Health Insurance Claim Number1": "4VB1-KU2-IY67",
+            "Hospital1": "06/06/2025",
+            "Medical1": "06/06/2025",
+            "Prescription1": "06/06/2025",
+            "Age1": "Age",
+            "Disability1": "",
+            "End Stage1": "",
+            "Medicare Supplement1": "Yes",
+            "Name of Subscriber2": "JANE CLARK ",
+            "Health Insurance Claim Number2": "8DF1-BV2-BN25",
+            "Hospital2": "06/06/2024",
+            "Medical2": "06/06/2024",
+            "Prescription2": "",
+            "Age2": "Age",
+            "Disability2": "",
+            "End Stage2": "",
+            "Medicare Supplement2": "Yes"
+        }
+    ],
+    "V IMPORTANT AUTHORIZED SIGNATURE": [
+        {
+            "Employee Contract Holder Signature": "YES"
+        }
+    ]
+}
