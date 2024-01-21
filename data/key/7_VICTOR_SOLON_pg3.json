@@ -1,8 +1,15 @@
 {
-    "insurancecompany": "HIGHMARK",
-    "formtype": "ENROLLMENT/WAIVER FORM",
-    "page_number": "3",
-    "IV OTHER HEALTH INSURANCE COVERAGE": [
+    "meta": {
+        "version": "v1",
+        "page_number": 3,
+        "image_size": {
+            "width": 1700,
+            "height": 2200
+        },
+		"insurancecompany": "HIGHMARK",
+		"formtype": "ENROLLMENT/WAIVER FORM"
+	},
+	"IV OTHER HEALTH INSURANCE COVERAGE": [
         {
             "Name of Insurance Carrier": "Kaiser",
             "Group Number": "5126",
@@ -11,28 +18,13 @@
             "Policyholder Date of Birth": "04/13/2007",
             "Relationship to Policyholder": "Self",
             "Policy Number": "KIS15465",
-            "Employment Status": "Active",
-            "Medicare": "Coverage",
-            "Name of Subscriber1": "RICHARD SOLON",
-            "Health Insurance Claim Number1": "5QZ6-LK3-IO90",
-            "Hospital1": "04/12/2025",
-            "Medical1": "04/12/2025",
-            "Prescription1": "04/12/2025",
-            "Age1": "",
-            "Disability1": "Disability",
-            "End Stage1": "",
-            "Medicare Supplement1": "No",
-            "Name of Subscriber2": "CHLOE SOLON",
-            "Health Insurance Claim Number2": "1SD1-FG1-VC56",
-            "Hospital2": "04/12/2024",
-            "Medical2": "04/12/2024",
-            "Prescription2": "",
-            "Age2": "Age",
-            "Disability2": "",
-            "End Stage2": "",
-            "Medicare Supplement2": "No"
-        }
-    ],
+            "Employment Status": "Active"
+		}
+	],
+	"Medicare Coverage": [
+	{"Name of Subscriber 1": "RICHARD SOLON", "Health Insurance Claim Number 1": "5QZ6-LK3-IO90", "Hospital 1": "04/12/25", "Medical 1": "04/12/25", "Prescription 1": "04/12/25", "Age 1": "", "Disability 1": "✓", "End Stage 1": "", "Medicare Supplement 1": "No"},
+	{"Name of Subscriber 2": "CHLOE SOLON", "Health Insurance Claim Number 2": "1SD1-FG1-VC56", "Hospital 2": "04/12/24", "Medical 2": "04/12/24", "Prescription 2": "", "Age 2": "✓", "Disability 2": "", "End Stage 2": "", "Medicare Supplement 2": "No"}
+	],
     "V IMPORTANT AUTHORIZED SIGNATURE": [
         {
             "Employee Contract Holder Signature": "YES"

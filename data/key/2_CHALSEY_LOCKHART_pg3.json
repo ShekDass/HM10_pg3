@@ -1,8 +1,15 @@
 {
-    "insurancecompany": "HIGHMARK",
-    "formtype": "ENROLLMENT/WAIVER FORM",
-    "page_number": "3",
-    "IV OTHER HEALTH INSURANCE COVERAGE": [
+    "meta": {
+        "version": "v1",
+        "page_number": 3,
+        "image_size": {
+            "width": 1700,
+            "height": 2200
+        },
+		"insurancecompany": "HIGHMARK",
+		"formtype": "ENROLLMENT/WAIVER FORM"
+	},
+	"IV OTHER HEALTH INSURANCE COVERAGE": [
         {
             "Name of Insurance Carrier": "United",
             "Group Number": "1423",
@@ -11,28 +18,13 @@
             "Policyholder Date of Birth": "05/14/2006",
             "Relationship to Policyholder": "Self",
             "Policy Number": "UH4528",
-            "Employment Status": "Active",
-            "Medicare": "Coverage",
-            "Name of Subscriber1": "TONY LOCKHART",
-            "Health Insurance Claim Number1": "1QW3-GH4-CV45",
-            "Hospital1": "11/25/2024",
-            "Medical1": "11/25/2024",
-            "Prescription1": "11/25/2024",
-            "Age1": "",
-            "Disability1": "Disability",
-            "End Stage1": "",
-            "Medicare Supplement1": "No",
-            "Name of Subscriber2": "NANCY LOCKHART",
-            "Health Insurance Claim Number2": "6VB1-KU2-IY69",
-            "Hospital2": "11/25/2024",
-            "Medical2": "11/25/2024",
-            "Prescription2": "",
-            "Age2": "",
-            "Disability2": "",
-            "End Stage2": "End Stage",
-            "Medicare Supplement2": "No"
-        }
-    ],
+            "Employment Status": "Active"
+		}
+	],
+	"Medicare Coverage": [
+	{"Name of Subscriber 1": "TONY LOCKHART", "Health Insurance Claim Number 1": "1QW3-GH4-CV45", "Hospital 1": "11/25/24", "Medical 1": "11/25/24", "Prescription 1": "11/25/24", "Age 1": "", "Disability 1": "✓", "End Stage 1": "", "Medicare Supplement 1": "No"},
+	{"Name of Subscriber 2": "NANCY LOCKHART", "Health Insurance Claim Number 2": "6VB1-KU2-IY69", "Hospital 2": "11/25/24", "Medical 2": "11/25/24", "Prescription 2": "", "Age 2": "", "Disability 2": "", "End Stage 2": "✓", "Medicare Supplement 2": "No"}
+	],
     "V IMPORTANT AUTHORIZED SIGNATURE": [
         {
             "Employee Contract Holder Signature": "YES"

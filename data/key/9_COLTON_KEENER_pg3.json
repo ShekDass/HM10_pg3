@@ -1,8 +1,15 @@
 {
-    "insurancecompany": "HIGHMARK",
-    "formtype": "ENROLLMENT/WAIVER FORM",
-    "page_number": "3",
-    "IV OTHER HEALTH INSURANCE COVERAGE": [
+    "meta": {
+        "version": "v1",
+        "page_number": 3,
+        "image_size": {
+            "width": 1700,
+            "height": 2200
+        },
+		"insurancecompany": "HIGHMARK",
+		"formtype": "ENROLLMENT/WAIVER FORM"
+	},
+	"IV OTHER HEALTH INSURANCE COVERAGE": [
         {
             "Name of Insurance Carrier": "Aetna",
             "Group Number": "8956",
@@ -11,28 +18,13 @@
             "Policyholder Date of Birth": "12/06/1988",
             "Relationship to Policyholder": "Self",
             "Policy Number": "AT35785",
-            "Employment Status": "Active",
-            "Medicare": "Coverage",
-            "Name of Subscriber1": "WILLIAM KEENER",
-            "Health Insurance Claim Number1": "3FG4-TR1-ER23",
-            "Hospital1": "03/22/2025",
-            "Medical1": "03/22/2025",
-            "Prescription1": "03/22/2025",
-            "Age1": "Age",
-            "Disability1": "",
-            "End Stage1": "",
-            "Medicare Supplement1": "Yes",
-            "Name of Subscriber2": "DOROTHY KEENER",
-            "Health Insurance Claim Number2": "2TY1-HJ3-NB65",
-            "Hospital2": "03/22/2025",
-            "Medical2": "03/22/2025",
-            "Prescription2": "",
-            "Age2": "Age",
-            "Disability2": "",
-            "End Stage2": "",
-            "Medicare Supplement2": "Yes"
-        }
-    ],
+            "Employment Status": "Active"
+		}
+	],
+	"Medicare Coverage": [
+	{"Name of Subscriber 1": "WILLIAM KEENER", "Health Insurance Claim Number 1": "3FG4-TR1-ER23", "Hospital 1": "03/22/25", "Medical 1": "03/22/25", "Prescription 1": "03/22/25", "Age 1": "✓", "Disability 1": "", "End Stage 1": "", "Medicare Supplement 1": "Yes"},
+	{"Name of Subscriber 2": "DOROTHY KEENER", "Health Insurance Claim Number 2": "2TY1-HJ3-NB65", "Hospital 2": "03/22/25", "Medical 2": "03/22/25", "Prescription 2": "", "Age 2": "✓", "Disability 2": "", "End Stage 2": "", "Medicare Supplement 2": "Yes"}
+	],
     "V IMPORTANT AUTHORIZED SIGNATURE": [
         {
             "Employee Contract Holder Signature": "YES"

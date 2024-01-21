@@ -1,8 +1,15 @@
 {
-    "insurancecompany": "HIGHMARK",
-    "formtype": "ENROLLMENT/WAIVER FORM",
-    "page_number": "3",
-    "IV OTHER HEALTH INSURANCE COVERAGE": [
+    "meta": {
+        "version": "v1",
+        "page_number": 3,
+        "image_size": {
+            "width": 1700,
+            "height": 2200
+        },
+		"insurancecompany": "HIGHMARK",
+		"formtype": "ENROLLMENT/WAIVER FORM"
+	},
+	"IV OTHER HEALTH INSURANCE COVERAGE": [
         {
             "Name of Insurance Carrier": "United",
             "Group Number": "7458",
@@ -11,28 +18,13 @@
             "Policyholder Date of Birth": "04/08/1970",
             "Relationship to Policyholder": "Self",
             "Policy Number": "UH7825",
-            "Employment Status": "Active",
-            "Medicare": "Coverage",
-            "Name of Subscriber1": "MONA ECKLUND",
-            "Health Insurance Claim Number1": "1DS4-TY3-RC37",
-            "Hospital1": "01/18/2024",
-            "Medical1": "01/18/2024",
-            "Prescription1": "01/18/2024",
-            "Age1": "Age",
-            "Disability1": "",
-            "End Stage1": "",
-            "Medicare Supplement1": "Yes",
-            "Name of Subscriber2": "PATRICIA THOMPSON",
-            "Health Insurance Claim Number2": "8XC2-HJ2-CV87",
-            "Hospital2": "01/18/2025",
-            "Medical2": "01/18/2025",
-            "Prescription2": "",
-            "Age2": "Age",
-            "Disability2": "Disability",
-            "End Stage2": "End Stage",
-            "Medicare Supplement2": "Yes"
-        }
-    ],
+            "Employment Status": "Active"
+		}
+	],
+	"Medicare Coverage": [
+	{"Name of Subscriber 1": "MONA ECKLUND", "Health Insurance Claim Number 1": "1DS4-TY3-RC37", "Hospital 1": "01/18/24", "Medical 1": "01/18/24", "Prescription 1": "01/18/24", "Age 1": "✓", "Disability 1": "", "End Stage 1": "", "Medicare Supplement 1": "Yes"},
+	{"Name of Subscriber 2": "PATRICIA THOMPSON", "Health Insurance Claim Number 2": "8XC2-HJ2-CV87", "Hospital 2": "01/18/25", "Medical 2": "01/18/25", "Prescription 2": "", "Age 2": "✓", "Disability 2": "✓", "End Stage 2": "✓", "Medicare Supplement 2": "Yes"}
+	],
     "V IMPORTANT AUTHORIZED SIGNATURE": [
         {
             "Employee Contract Holder Signature": "YES"
